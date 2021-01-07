@@ -22,7 +22,7 @@ Jinja2==2.11.2
 jupyter-client==5.3.4
 jupyter-core==4.6.3
 lazy-object-proxy==1.4.3
-lxml==4.5.2
+lxml==4.6.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 numpy==1.19.1
